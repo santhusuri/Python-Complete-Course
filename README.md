@@ -104,29 +104,11 @@ Each level builds upon the previous one — helping you develop both **depth and
 
 ---
 
-### 🧩 Level 7 — Professional & Applied Python
-**Apply Python to real-world domains.**
-
-35. Database Interaction (SQLite3, MySQL, SQLAlchemy)  
-36. Web Scraping & APIs (requests, BeautifulSoup)  
-37. Automation & Scripting (emails, PDFs, cron jobs)  
-38. Data Science & ML Overview  
-39. System Design with Python  
-
----
-
-### 🏁 Level 8 — Interview Preparation & Projects
+### 🏁 Level 7 — Interview Preparation & Projects
 **Combine everything you’ve learned!**
 
-40. Problem Solving & Algorithms  
-   - Arrays, Strings, Trees, Graphs, DP  
-41. Mini Projects  
-   - Password Manager  
-   - Expense Tracker  
-   - Flask REST API  
-   - File Organizer  
-   - Web Scraper  
-
+35. Mini Projects  
+ 
 ---
 
 ## 📘 Recommended Learning Path
