@@ -20,28 +20,10 @@ Each level builds upon the previous one — helping you develop both **depth and
 **Build your foundation in syntax, types, and control flow.**
 
 1. **Introduction to Python**
-   - What is Python? Features & History  
-   - Installation, Versions, and Running Scripts  
-   - Jupyter Notebooks & Interactive Shell  
-   - “The Zen of Python” (`import this`)
-
 2. **Basic Syntax and Variables**
-   - Comments, Indentation, Naming  
-   - Variables & Dynamic Typing  
-   - Multiple Assignment & Unpacking
-
 3. **Data Types**
-   - Numbers, Strings, Lists, Tuples, Dicts, Sets, Booleans  
-   - Binary types (bytes, bytearray, memoryview)
-
 4. **Type Casting and I/O**
-   - `input()` and `print()`  
-   - f-strings and Formatting  
-   - Type conversions (`int()`, `str()`, etc.)
-
 5. **Operators**
-   - Arithmetic, Logical, Comparison, Bitwise  
-   - Identity (`is`) and Membership (`in`)
 
 ---
 
